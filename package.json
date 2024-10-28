@@ -1,0 +1,13 @@
+{
+  "name": "signal",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/basic.js"
+  },
+  "keywords": [],
+  "author": "Axel",
+  "license": "MIT"
+}
