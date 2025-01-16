@@ -8,10 +8,11 @@ npm install @axel669/signal
 
 ```js
 import * as signals from "https://esm.sh/@axel669/signal@0.1.0"
+import { $signal, $derive, $effect, ... } as signals from "https://esm.sh/@axel669/signal@0.1.0"
 ```
 
 ## Todo
-- maybe don't trigger updates if strict equality is true
+- ~~maybe don't trigger updates if strict equality is true~~
 - is async signal processing useful?
 
 ## Usage
