@@ -1,8 +1,7 @@
 {
   "name": "@axel669/signal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
-  "main": "lib/main.js",
   "type": "module",
   "scripts": {
     "test": "node tests/basic.js"
@@ -14,6 +13,7 @@
     "lib"
   ],
   "exports": {
-    ".": "./lib/main.js"
+    ".": "./lib/main.js",
+    "./types": "./lib/types.ts"
   }
 }
